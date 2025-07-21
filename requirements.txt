@@ -1,0 +1,4 @@
+flask
+rembeg
+pillow
+gunicorn
